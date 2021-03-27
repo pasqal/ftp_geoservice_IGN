@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <FileZilla3 version="3.39.0" platform="*nix">
 	<Servers>
-		<Folder expanded="1">Mes Sites<Folder expanded="1">IGN-cartes<Server>
+		<Folder expanded="1">Sites IGN<Folder expanded="1">IGN-cartes<Server>
 					<Host>ftp3.ign.fr</Host>
 					<Port>21</Port>
 					<Protocol>6</Protocol>
