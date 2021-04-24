@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<FileZilla3 version="3.39.0" platform="*nix">
+<FileZilla3 version="3.53.1" platform="*nix">
 	<Servers>
 		<Folder expanded="1">Sites IGN<Folder expanded="1">IGN-cartes<Server>
 					<Host>ftp3.ign.fr</Host>
@@ -9,16 +9,10 @@
 					<User>SCAN_EM_10K_ext</User>
 					<Pass encoding="base64">dWZlZVkwbm9vS29XaWVwaA==</Pass>
 					<Logontype>1</Logontype>
-					<TimezoneOffset>0</TimezoneOffset>
-					<PasvMode>MODE_DEFAULT</PasvMode>
-					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<PasvMode>MODE_ACTIVE</PasvMode>
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
 					<Name>Plan IGN</Name>
-					<Comments />
-					<Colour>0</Colour>
-					<LocalDir />
-					<RemoteDir />
 					<SyncBrowsing>0</SyncBrowsing>
 					<DirectoryComparison>0</DirectoryComparison>
 				</Server>
@@ -30,16 +24,10 @@
 					<User>SCAN_1000_ext</User>
 					<Pass encoding="base64">SmVlM2Nob2g2aWV6b29jZQ==</Pass>
 					<Logontype>1</Logontype>
-					<TimezoneOffset>0</TimezoneOffset>
-					<PasvMode>MODE_DEFAULT</PasvMode>
-					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<PasvMode>MODE_ACTIVE</PasvMode>
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
 					<Name>Scan 1000</Name>
-					<Comments />
-					<Colour>0</Colour>
-					<LocalDir />
-					<RemoteDir />
 					<SyncBrowsing>0</SyncBrowsing>
 					<DirectoryComparison>0</DirectoryComparison>
 				</Server>
@@ -51,16 +39,10 @@
 					<User>SCAN_50_1950_ext</User>
 					<Pass encoding="base64">SG9oc2hvb3plZTRhdTVNaQ==</Pass>
 					<Logontype>1</Logontype>
-					<TimezoneOffset>0</TimezoneOffset>
-					<PasvMode>MODE_DEFAULT</PasvMode>
-					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<PasvMode>MODE_ACTIVE</PasvMode>
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
 					<Name>Scan 50 historique</Name>
-					<Comments />
-					<Colour>0</Colour>
-					<LocalDir />
-					<RemoteDir />
 					<SyncBrowsing>0</SyncBrowsing>
 					<DirectoryComparison>0</DirectoryComparison>
 				</Server>
@@ -72,16 +54,10 @@
 					<User>SCAN_EM_10K_ext</User>
 					<Pass encoding="base64">dWZlZVkwbm9vS29XaWVwaA==</Pass>
 					<Logontype>1</Logontype>
-					<TimezoneOffset>0</TimezoneOffset>
-					<PasvMode>MODE_DEFAULT</PasvMode>
-					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<PasvMode>MODE_ACTIVE</PasvMode>
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
 					<Name>Scan Etat Major 10k</Name>
-					<Comments />
-					<Colour>0</Colour>
-					<LocalDir />
-					<RemoteDir />
 					<SyncBrowsing>0</SyncBrowsing>
 					<DirectoryComparison>0</DirectoryComparison>
 				</Server>
@@ -93,16 +69,10 @@
 					<User>SCAN_EM_40K_ext</User>
 					<Pass encoding="base64">dm9od29vMGFpcmlDaGEyYQ==</Pass>
 					<Logontype>1</Logontype>
-					<TimezoneOffset>0</TimezoneOffset>
-					<PasvMode>MODE_DEFAULT</PasvMode>
-					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<PasvMode>MODE_ACTIVE</PasvMode>
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
 					<Name>Scan Etat Major 40k</Name>
-					<Comments />
-					<Colour>0</Colour>
-					<LocalDir />
-					<RemoteDir />
 					<SyncBrowsing>0</SyncBrowsing>
 					<DirectoryComparison>0</DirectoryComparison>
 				</Server>
@@ -114,16 +84,10 @@
 					<User>SCAN_Regional_ext</User>
 					<Pass encoding="base64">T293M0FpcGhlaTZhaExhZQ==</Pass>
 					<Logontype>1</Logontype>
-					<TimezoneOffset>0</TimezoneOffset>
-					<PasvMode>MODE_DEFAULT</PasvMode>
-					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<PasvMode>MODE_ACTIVE</PasvMode>
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
 					<Name>Scan Régional</Name>
-					<Comments />
-					<Colour>0</Colour>
-					<LocalDir />
-					<RemoteDir />
 					<SyncBrowsing>0</SyncBrowsing>
 					<DirectoryComparison>0</DirectoryComparison>
 				</Server>
@@ -136,16 +100,10 @@
 					<User>RGE_ALTI_ext</User>
 					<Pass encoding="base64">VGhhZTVlZXJvaHNlaTh2ZQ==</Pass>
 					<Logontype>1</Logontype>
-					<TimezoneOffset>0</TimezoneOffset>
-					<PasvMode>MODE_DEFAULT</PasvMode>
-					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<PasvMode>MODE_ACTIVE</PasvMode>
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
 					<Name>RGE Alti</Name>
-					<Comments />
-					<Colour>0</Colour>
-					<LocalDir />
-					<RemoteDir />
 					<SyncBrowsing>0</SyncBrowsing>
 					<DirectoryComparison>0</DirectoryComparison>
 				</Server>
@@ -158,16 +116,10 @@
 					<User>ORTHO_HR_NL_ext</User>
 					<Pass encoding="base64">cHVpd2VlcDJCb2gzb2hzaA==</Pass>
 					<Logontype>1</Logontype>
-					<TimezoneOffset>0</TimezoneOffset>
-					<PasvMode>MODE_DEFAULT</PasvMode>
-					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<PasvMode>MODE_ACTIVE</PasvMode>
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
 					<Name>BD Ortho</Name>
-					<Comments />
-					<Colour>0</Colour>
-					<LocalDir />
-					<RemoteDir />
 					<SyncBrowsing>0</SyncBrowsing>
 					<DirectoryComparison>0</DirectoryComparison>
 				</Server>
@@ -179,16 +131,10 @@
 					<User>BD_ORTHO_IRC_ext</User>
 					<Pass encoding="base64">YWl4bzVhZURlZXkyTGFodw==</Pass>
 					<Logontype>1</Logontype>
-					<TimezoneOffset>0</TimezoneOffset>
-					<PasvMode>MODE_DEFAULT</PasvMode>
-					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<PasvMode>MODE_ACTIVE</PasvMode>
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
 					<Name>BD Ortho IRC</Name>
-					<Comments />
-					<Colour>0</Colour>
-					<LocalDir />
-					<RemoteDir />
 					<SyncBrowsing>0</SyncBrowsing>
 					<DirectoryComparison>0</DirectoryComparison>
 				</Server>
@@ -200,16 +146,10 @@
 					<User>BD_ORTHO_IRC_NL_ext</User>
 					<Pass encoding="base64">amFuZWk2TmllNGllYmVpNQ==</Pass>
 					<Logontype>1</Logontype>
-					<TimezoneOffset>0</TimezoneOffset>
-					<PasvMode>MODE_DEFAULT</PasvMode>
-					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<PasvMode>MODE_ACTIVE</PasvMode>
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
 					<Name>BD Ortho IRC NL</Name>
-					<Comments />
-					<Colour>0</Colour>
-					<LocalDir />
-					<RemoteDir />
 					<SyncBrowsing>0</SyncBrowsing>
 					<DirectoryComparison>0</DirectoryComparison>
 				</Server>
@@ -221,16 +161,10 @@
 					<User>ORTHO_HR_ext</User>
 					<Pass encoding="base64">SXRoYWNhaDZvcGhhaTJ2bw==</Pass>
 					<Logontype>1</Logontype>
-					<TimezoneOffset>0</TimezoneOffset>
-					<PasvMode>MODE_DEFAULT</PasvMode>
-					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<PasvMode>MODE_ACTIVE</PasvMode>
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
 					<Name>BD Ortho ancienne</Name>
-					<Comments />
-					<Colour>0</Colour>
-					<LocalDir />
-					<RemoteDir />
 					<SyncBrowsing>0</SyncBrowsing>
 					<DirectoryComparison>0</DirectoryComparison>
 				</Server>
@@ -243,16 +177,10 @@
 					<User>BD_PARCELLAIRE_ext</User>
 					<Pass encoding="base64">UGhlaXk1YWhnaGVpc2hpOQ==</Pass>
 					<Logontype>1</Logontype>
-					<TimezoneOffset>0</TimezoneOffset>
-					<PasvMode>MODE_DEFAULT</PasvMode>
-					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<PasvMode>MODE_ACTIVE</PasvMode>
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
 					<Name>BD parcellaire</Name>
-					<Comments />
-					<Colour>0</Colour>
-					<LocalDir />
-					<RemoteDir />
 					<SyncBrowsing>0</SyncBrowsing>
 					<DirectoryComparison>0</DirectoryComparison>
 				</Server>
@@ -264,16 +192,10 @@
 					<User>Parcel_Expr_PCI_BETA_ext</User>
 					<Pass encoding="base64">YWhmN2pvb05nMnRoYWlTaA==</Pass>
 					<Logontype>1</Logontype>
-					<TimezoneOffset>0</TimezoneOffset>
-					<PasvMode>MODE_DEFAULT</PasvMode>
-					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<PasvMode>MODE_ACTIVE</PasvMode>
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
 					<Name>Parcellaire Express</Name>
-					<Comments />
-					<Colour>0</Colour>
-					<LocalDir />
-					<RemoteDir />
 					<SyncBrowsing>0</SyncBrowsing>
 					<DirectoryComparison>0</DirectoryComparison>
 				</Server>
@@ -286,16 +208,10 @@
 					<User>Admin_Express_ext</User>
 					<Pass encoding="base64">RGFobm9oMGVpZ2hlZUZvaw==</Pass>
 					<Logontype>1</Logontype>
-					<TimezoneOffset>0</TimezoneOffset>
-					<PasvMode>MODE_DEFAULT</PasvMode>
-					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<PasvMode>MODE_ACTIVE</PasvMode>
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
 					<Name>Admin Express - Geofla</Name>
-					<Comments />
-					<Colour>0</Colour>
-					<LocalDir />
-					<RemoteDir />
 					<SyncBrowsing>0</SyncBrowsing>
 					<DirectoryComparison>0</DirectoryComparison>
 				</Server>
@@ -307,16 +223,10 @@
 					<User>ADRESSSE_PREMIUM_ext</User>
 					<Pass encoding="base64">YWlMaWVIN3ZlZTlkZWVIMQ==</Pass>
 					<Logontype>1</Logontype>
-					<TimezoneOffset>0</TimezoneOffset>
-					<PasvMode>MODE_DEFAULT</PasvMode>
-					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<PasvMode>MODE_ACTIVE</PasvMode>
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
 					<Name>Adresse Premium</Name>
-					<Comments />
-					<Colour>0</Colour>
-					<LocalDir />
-					<RemoteDir />
 					<SyncBrowsing>0</SyncBrowsing>
 					<DirectoryComparison>0</DirectoryComparison>
 				</Server>
@@ -328,16 +238,10 @@
 					<User>BD_CARTO_ext</User>
 					<Pass encoding="base64">T29yNGVsOGFlTTNpbzBKaQ==</Pass>
 					<Logontype>1</Logontype>
-					<TimezoneOffset>0</TimezoneOffset>
-					<PasvMode>MODE_DEFAULT</PasvMode>
-					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<PasvMode>MODE_ACTIVE</PasvMode>
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
 					<Name>BD Carto</Name>
-					<Comments />
-					<Colour>0</Colour>
-					<LocalDir />
-					<RemoteDir />
 					<SyncBrowsing>0</SyncBrowsing>
 					<DirectoryComparison>0</DirectoryComparison>
 				</Server>
@@ -349,16 +253,10 @@
 					<User>BD_TOPO_ext</User>
 					<Pass encoding="base64">aW5pZTBBaXlhaWc2ZWVWYQ==</Pass>
 					<Logontype>1</Logontype>
-					<TimezoneOffset>0</TimezoneOffset>
-					<PasvMode>MODE_DEFAULT</PasvMode>
-					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<PasvMode>MODE_ACTIVE</PasvMode>
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
 					<Name>BD Ortho 2018</Name>
-					<Comments />
-					<Colour>0</Colour>
-					<LocalDir />
-					<RemoteDir />
 					<SyncBrowsing>0</SyncBrowsing>
 					<DirectoryComparison>0</DirectoryComparison>
 				</Server>
@@ -370,16 +268,10 @@
 					<User>BDTOPO_V3_NL_ext</User>
 					<Pass encoding="base64">T2hwM3F1YXoyYWlkZWVsNA==</Pass>
 					<Logontype>1</Logontype>
-					<TimezoneOffset>0</TimezoneOffset>
-					<PasvMode>MODE_DEFAULT</PasvMode>
-					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<PasvMode>MODE_ACTIVE</PasvMode>
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
 					<Name>BD Ortho V3</Name>
-					<Comments />
-					<Colour>0</Colour>
-					<LocalDir />
-					<RemoteDir />
 					<SyncBrowsing>0</SyncBrowsing>
 					<DirectoryComparison>0</DirectoryComparison>
 				</Server>
@@ -391,16 +283,10 @@
 					<User>BD_Foret_V1_et_V2_ext</User>
 					<Pass encoding="base64">YWQzUGhlcXUySXhhZTdvaA==</Pass>
 					<Logontype>1</Logontype>
-					<TimezoneOffset>0</TimezoneOffset>
-					<PasvMode>MODE_DEFAULT</PasvMode>
-					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<PasvMode>MODE_ACTIVE</PasvMode>
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
 					<Name>BD foret V1 V2</Name>
-					<Comments />
-					<Colour>0</Colour>
-					<LocalDir />
-					<RemoteDir />
 					<SyncBrowsing>0</SyncBrowsing>
 					<DirectoryComparison>0</DirectoryComparison>
 				</Server>
@@ -412,16 +298,10 @@
 					<User>BDPR_ext</User>
 					<Pass encoding="base64">YmUzYWFkb1Zvem9oZ2hpZQ==</Pass>
 					<Logontype>1</Logontype>
-					<TimezoneOffset>0</TimezoneOffset>
-					<PasvMode>MODE_DEFAULT</PasvMode>
-					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<PasvMode>MODE_ACTIVE</PasvMode>
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
 					<Name>BDPR</Name>
-					<Comments />
-					<Colour>0</Colour>
-					<LocalDir />
-					<RemoteDir />
 					<SyncBrowsing>0</SyncBrowsing>
 					<DirectoryComparison>0</DirectoryComparison>
 				</Server>
@@ -433,16 +313,10 @@
 					<User>Contours_IRIS_ext</User>
 					<Pass encoding="base64">YW82UGh1NW9oSjRqYWVqaQ==</Pass>
 					<Logontype>1</Logontype>
-					<TimezoneOffset>0</TimezoneOffset>
-					<PasvMode>MODE_DEFAULT</PasvMode>
-					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<PasvMode>MODE_ACTIVE</PasvMode>
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
 					<Name>Contour IRIS</Name>
-					<Comments />
-					<Colour>0</Colour>
-					<LocalDir />
-					<RemoteDir />
 					<SyncBrowsing>0</SyncBrowsing>
 					<DirectoryComparison>0</DirectoryComparison>
 				</Server>
@@ -454,16 +328,10 @@
 					<User>DNSB_ext</User>
 					<Pass encoding="base64">QWhDM21vZTNwZWVnb2hjbw==</Pass>
 					<Logontype>1</Logontype>
-					<TimezoneOffset>0</TimezoneOffset>
-					<PasvMode>MODE_DEFAULT</PasvMode>
-					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<PasvMode>MODE_ACTIVE</PasvMode>
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
 					<Name>DN suivi bocage</Name>
-					<Comments />
-					<Colour>0</Colour>
-					<LocalDir />
-					<RemoteDir />
 					<SyncBrowsing>0</SyncBrowsing>
 					<DirectoryComparison>0</DirectoryComparison>
 				</Server>
@@ -475,16 +343,10 @@
 					<User>EGM_ext</User>
 					<Pass encoding="base64">b29yb292NWpldTJDYWgxbg==</Pass>
 					<Logontype>1</Logontype>
-					<TimezoneOffset>0</TimezoneOffset>
-					<PasvMode>MODE_DEFAULT</PasvMode>
-					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<PasvMode>MODE_ACTIVE</PasvMode>
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
 					<Name>EuropeanGlobalMap</Name>
-					<Comments />
-					<Colour>0</Colour>
-					<LocalDir />
-					<RemoteDir />
 					<SyncBrowsing>0</SyncBrowsing>
 					<DirectoryComparison>0</DirectoryComparison>
 				</Server>
@@ -496,16 +358,10 @@
 					<User>GEODESIE_ext</User>
 					<Pass encoding="base64">b2hxdWUxbGFpU29vY2hvOA==</Pass>
 					<Logontype>1</Logontype>
-					<TimezoneOffset>0</TimezoneOffset>
-					<PasvMode>MODE_DEFAULT</PasvMode>
-					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<PasvMode>MODE_ACTIVE</PasvMode>
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
 					<Name>Geodesie</Name>
-					<Comments />
-					<Colour>0</Colour>
-					<LocalDir />
-					<RemoteDir />
 					<SyncBrowsing>0</SyncBrowsing>
 					<DirectoryComparison>0</DirectoryComparison>
 				</Server>
@@ -517,16 +373,10 @@
 					<User>Iris_GE_ext</User>
 					<Pass encoding="base64">ZWVMb293MWdvaFMxT290OQ==</Pass>
 					<Logontype>1</Logontype>
-					<TimezoneOffset>0</TimezoneOffset>
-					<PasvMode>MODE_DEFAULT</PasvMode>
-					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<PasvMode>MODE_ACTIVE</PasvMode>
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
 					<Name>IRIS GE</Name>
-					<Comments />
-					<Colour>0</Colour>
-					<LocalDir />
-					<RemoteDir />
 					<SyncBrowsing>0</SyncBrowsing>
 					<DirectoryComparison>0</DirectoryComparison>
 				</Server>
@@ -538,16 +388,10 @@
 					<User>OCS_GE_ext</User>
 					<Pass encoding="base64">T2hjaW96aWV4NUVlVzBmZQ==</Pass>
 					<Logontype>1</Logontype>
-					<TimezoneOffset>0</TimezoneOffset>
-					<PasvMode>MODE_DEFAULT</PasvMode>
-					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<PasvMode>MODE_ACTIVE</PasvMode>
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
 					<Name>OCS GE</Name>
-					<Comments />
-					<Colour>0</Colour>
-					<LocalDir />
-					<RemoteDir />
 					<SyncBrowsing>0</SyncBrowsing>
 					<DirectoryComparison>0</DirectoryComparison>
 				</Server>
@@ -559,16 +403,10 @@
 					<User>RPG_ext</User>
 					<Pass encoding="base64">cXVvb2phaWNhaXF1NmFoRA==</Pass>
 					<Logontype>1</Logontype>
-					<TimezoneOffset>0</TimezoneOffset>
-					<PasvMode>MODE_DEFAULT</PasvMode>
-					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<PasvMode>MODE_ACTIVE</PasvMode>
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
 					<Name>RPG</Name>
-					<Comments />
-					<Colour>0</Colour>
-					<LocalDir />
-					<RemoteDir />
 					<SyncBrowsing>0</SyncBrowsing>
 					<DirectoryComparison>0</DirectoryComparison>
 				</Server>
@@ -580,16 +418,10 @@
 					<User>ROUTE_500_ext</User>
 					<Pass encoding="base64">VXF1ZWVtaWV2YWlEYWgzaw==</Pass>
 					<Logontype>1</Logontype>
-					<TimezoneOffset>0</TimezoneOffset>
-					<PasvMode>MODE_DEFAULT</PasvMode>
-					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<PasvMode>MODE_ACTIVE</PasvMode>
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
 					<Name>Route 500</Name>
-					<Comments />
-					<Colour>0</Colour>
-					<LocalDir />
-					<RemoteDir />
 					<SyncBrowsing>0</SyncBrowsing>
 					<DirectoryComparison>0</DirectoryComparison>
 				</Server>
