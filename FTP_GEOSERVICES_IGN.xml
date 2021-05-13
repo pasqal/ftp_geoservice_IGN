@@ -9,10 +9,12 @@
 					<User>Plan_IGN_ext</User>
 					<Pass encoding="base64">dWF0aGVpMWFIb280YWhwaA==</Pass>
 					<Logontype>1</Logontype>
-					<PasvMode>MODE_DEFAULT</PasvMode>
+					<PasvMode>MODE_ACTIVE</PasvMode>
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
 					<Name>Plan IGN</Name>
+					<Comments>PLAN IGN France Métropolitaine échelles 8 à 12
+PLAN IGN par département échelles 12 à 19</Comments>
 					<SyncBrowsing>0</SyncBrowsing>
 					<DirectoryComparison>0</DirectoryComparison>
 				</Server>
@@ -24,10 +26,12 @@
 					<User>SCAN_1000_ext</User>
 					<Pass encoding="base64">SmVlM2Nob2g2aWV6b29jZQ==</Pass>
 					<Logontype>1</Logontype>
-					<PasvMode>MODE_DEFAULT</PasvMode>
+					<PasvMode>MODE_ACTIVE</PasvMode>
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
 					<Name>Scan 1000</Name>
+					<Comments>SCAN 1000® ed 2020
+SCAN 1000® ed 2019</Comments>
 					<SyncBrowsing>0</SyncBrowsing>
 					<DirectoryComparison>0</DirectoryComparison>
 				</Server>
@@ -39,10 +43,11 @@
 					<User>SCAN_50_1950_ext</User>
 					<Pass encoding="base64">SG9oc2hvb3plZTRhdTVNaQ==</Pass>
 					<Logontype>1</Logontype>
-					<PasvMode>MODE_DEFAULT</PasvMode>
+					<PasvMode>MODE_ACTIVE</PasvMode>
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
 					<Name>Scan 50 historique</Name>
+					<Comments>SCAN 50® Historique 1950</Comments>
 					<SyncBrowsing>0</SyncBrowsing>
 					<DirectoryComparison>0</DirectoryComparison>
 				</Server>
@@ -54,10 +59,12 @@
 					<User>SCAN_EM_10K_ext</User>
 					<Pass encoding="base64">dWZlZVkwbm9vS29XaWVwaA==</Pass>
 					<Logontype>1</Logontype>
-					<PasvMode>MODE_DEFAULT</PasvMode>
+					<PasvMode>MODE_ACTIVE</PasvMode>
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
 					<Name>Scan Etat Major 10k</Name>
+					<Comments>SCAN Etat-Major® 10k
+Région Île-de-France - R 11</Comments>
 					<SyncBrowsing>0</SyncBrowsing>
 					<DirectoryComparison>0</DirectoryComparison>
 				</Server>
@@ -69,10 +76,11 @@
 					<User>SCAN_EM_40K_ext</User>
 					<Pass encoding="base64">dm9od29vMGFpcmlDaGEyYQ==</Pass>
 					<Logontype>1</Logontype>
-					<PasvMode>MODE_DEFAULT</PasvMode>
+					<PasvMode>MODE_ACTIVE</PasvMode>
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
 					<Name>Scan Etat Major 40k</Name>
+					<Comments>SCAN Etat-Major® 40k</Comments>
 					<SyncBrowsing>0</SyncBrowsing>
 					<DirectoryComparison>0</DirectoryComparison>
 				</Server>
@@ -84,10 +92,11 @@
 					<User>SCAN_Regional_ext</User>
 					<Pass encoding="base64">T293M0FpcGhlaTZhaExhZQ==</Pass>
 					<Logontype>1</Logontype>
-					<PasvMode>MODE_DEFAULT</PasvMode>
+					<PasvMode>MODE_ACTIVE</PasvMode>
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
 					<Name>Scan Régional</Name>
+					<Comments>SCAN Régional® ed 2020</Comments>
 					<SyncBrowsing>0</SyncBrowsing>
 					<DirectoryComparison>0</DirectoryComparison>
 				</Server>
@@ -100,10 +109,13 @@
 					<User>RGE_ALTI_ext</User>
 					<Pass encoding="base64">VGhhZTVlZXJvaHNlaTh2ZQ==</Pass>
 					<Logontype>1</Logontype>
-					<PasvMode>MODE_DEFAULT</PasvMode>
+					<PasvMode>MODE_ACTIVE</PasvMode>
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
 					<Name>RGE Alti</Name>
+					<Comments>RGE ALTI® 1 m par département
+RGE ALTI® 5 m
+BD ALTI® 25 m</Comments>
 					<SyncBrowsing>0</SyncBrowsing>
 					<DirectoryComparison>0</DirectoryComparison>
 				</Server>
@@ -116,10 +128,11 @@
 					<User>ORTHO_HR_NL_ext</User>
 					<Pass encoding="base64">cHVpd2VlcDJCb2gzb2hzaA==</Pass>
 					<Logontype>1</Logontype>
-					<PasvMode>MODE_DEFAULT</PasvMode>
+					<PasvMode>MODE_ACTIVE</PasvMode>
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
 					<Name>BD Ortho</Name>
+					<Comments>BD ORTHO® dernière édition</Comments>
 					<SyncBrowsing>0</SyncBrowsing>
 					<DirectoryComparison>0</DirectoryComparison>
 				</Server>
@@ -131,10 +144,11 @@
 					<User>BD_ORTHO_IRC_ext</User>
 					<Pass encoding="base64">YWl4bzVhZURlZXkyTGFodw==</Pass>
 					<Logontype>1</Logontype>
-					<PasvMode>MODE_DEFAULT</PasvMode>
+					<PasvMode>MODE_ACTIVE</PasvMode>
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
 					<Name>BD Ortho IRC</Name>
+					<Comments>ORTHO® IRC (Infra rouge couleur) dernière édition</Comments>
 					<SyncBrowsing>0</SyncBrowsing>
 					<DirectoryComparison>0</DirectoryComparison>
 				</Server>
@@ -146,10 +160,12 @@
 					<User>BD_ORTHO_IRC_NL_ext</User>
 					<Pass encoding="base64">amFuZWk2TmllNGllYmVpNQ==</Pass>
 					<Logontype>1</Logontype>
-					<PasvMode>MODE_DEFAULT</PasvMode>
+					<PasvMode>MODE_ACTIVE</PasvMode>
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
 					<Name>BD Ortho IRC NL</Name>
+					<Comments>ORTHO® IRC (Infra rouge couleur) dernière édition
+adresse FTP différente suivant département. cf. liste IGN</Comments>
 					<SyncBrowsing>0</SyncBrowsing>
 					<DirectoryComparison>0</DirectoryComparison>
 				</Server>
@@ -161,10 +177,11 @@
 					<User>ORTHO_HR_ext</User>
 					<Pass encoding="base64">SXRoYWNhaDZvcGhhaTJ2bw==</Pass>
 					<Logontype>1</Logontype>
-					<PasvMode>MODE_DEFAULT</PasvMode>
+					<PasvMode>MODE_ACTIVE</PasvMode>
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
 					<Name>BD Ortho ancienne</Name>
+					<Comments>BD ORTHO® anciennes éditions</Comments>
 					<SyncBrowsing>0</SyncBrowsing>
 					<DirectoryComparison>0</DirectoryComparison>
 				</Server>
@@ -177,10 +194,14 @@
 					<User>BD_PARCELLAIRE_ext</User>
 					<Pass encoding="base64">UGhlaXk1YWhnaGVpc2hpOQ==</Pass>
 					<Logontype>1</Logontype>
-					<PasvMode>MODE_DEFAULT</PasvMode>
+					<PasvMode>MODE_ACTIVE</PasvMode>
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
 					<Name>BD parcellaire</Name>
+					<Comments>Données BD Parcellaire® Vecteur
+Données BD Parcellaire® Vecteur Histo
+Données BD Parcellaire® Image Histo
+</Comments>
 					<SyncBrowsing>0</SyncBrowsing>
 					<DirectoryComparison>0</DirectoryComparison>
 				</Server>
@@ -192,10 +213,31 @@
 					<User>Parcel_Expr_PCI_BETA_ext</User>
 					<Pass encoding="base64">YWhmN2pvb05nMnRoYWlTaA==</Pass>
 					<Logontype>1</Logontype>
-					<PasvMode>MODE_DEFAULT</PasvMode>
+					<PasvMode>MODE_ACTIVE</PasvMode>
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
 					<Name>Parcellaire Express</Name>
+					<Comments>Parcellaire Express (PCI) France entière 
+Parcellaire Express (PCI) par emprise départementale
+Dérivation et appariement BDPV-PCI</Comments>
+					<SyncBrowsing>0</SyncBrowsing>
+					<DirectoryComparison>0</DirectoryComparison>
+				</Server>
+				<Server>
+					<Host>ftp3.ign.fr</Host>
+					<Port>21</Port>
+					<Protocol>6</Protocol>
+					<Type>0</Type>
+					<User>RPG_ext</User>
+					<Pass encoding="base64">cXVvb2phaWNhaXF1NmFoRA==</Pass>
+					<Logontype>1</Logontype>
+					<PasvMode>MODE_ACTIVE</PasvMode>
+					<EncodingType>Auto</EncodingType>
+					<BypassProxy>0</BypassProxy>
+					<Name>RPG 2019</Name>
+					<Comments>RPG édition 2019 (Registre Parcellaire Graphique)
+RPG France métropolitaine édition 2019 format GeoPackage
+</Comments>
 					<SyncBrowsing>0</SyncBrowsing>
 					<DirectoryComparison>0</DirectoryComparison>
 				</Server>
@@ -208,10 +250,18 @@
 					<User>Admin_Express_ext</User>
 					<Pass encoding="base64">RGFobm9oMGVpZ2hlZUZvaw==</Pass>
 					<Logontype>1</Logontype>
-					<PasvMode>MODE_DEFAULT</PasvMode>
+					<PasvMode>MODE_ACTIVE</PasvMode>
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
 					<Name>Admin Express - Geofla</Name>
+					<Comments>ADMIN-EXPRESS édition Février 2021 par territoire
+ADMIN-EXPRESS édition Février 2021 France entière
+ADMIN-EXPRESS-COG édition 2020 par territoire
+ADMIN-EXPRESS-COG édition 2020 France entière
+
+Geofla®Arrondissements
+Geofla®Communes
+Geofla®Départements</Comments>
 					<SyncBrowsing>0</SyncBrowsing>
 					<DirectoryComparison>0</DirectoryComparison>
 				</Server>
@@ -223,7 +273,7 @@
 					<User>ADRESSSE_PREMIUM_ext</User>
 					<Pass encoding="base64">YWlMaWVIN3ZlZTlkZWVIMQ==</Pass>
 					<Logontype>1</Logontype>
-					<PasvMode>MODE_DEFAULT</PasvMode>
+					<PasvMode>MODE_ACTIVE</PasvMode>
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
 					<Name>Adresse Premium</Name>
@@ -235,13 +285,32 @@
 					<Port>21</Port>
 					<Protocol>6</Protocol>
 					<Type>0</Type>
+					<User>ressources_geoservices_ext</User>
+					<Pass encoding="base64">QWljaGllajVpdjd0aGFlYg==</Pass>
+					<Logontype>1</Logontype>
+					<PasvMode>MODE_ACTIVE</PasvMode>
+					<EncodingType>Auto</EncodingType>
+					<BypassProxy>0</BypassProxy>
+					<Name>BCAE 2021</Name>
+					<Comments>BCAE (bonnes conditions agricoles et environnementales)</Comments>
+					<RemoteDir>1 0 4 BCAE</RemoteDir>
+					<SyncBrowsing>0</SyncBrowsing>
+					<DirectoryComparison>0</DirectoryComparison>
+				</Server>
+				<Server>
+					<Host>ftp3.ign.fr</Host>
+					<Port>21</Port>
+					<Protocol>6</Protocol>
+					<Type>0</Type>
 					<User>BD_CARTO_ext</User>
 					<Pass encoding="base64">T29yNGVsOGFlTTNpbzBKaQ==</Pass>
 					<Logontype>1</Logontype>
-					<PasvMode>MODE_DEFAULT</PasvMode>
+					<PasvMode>MODE_ACTIVE</PasvMode>
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
 					<Name>BD Carto</Name>
+					<Comments>BD CARTO®
+BD CARTO® État-major par emprise départementale</Comments>
 					<SyncBrowsing>0</SyncBrowsing>
 					<DirectoryComparison>0</DirectoryComparison>
 				</Server>
@@ -253,10 +322,10 @@
 					<User>BD_TOPO_ext</User>
 					<Pass encoding="base64">aW5pZTBBaXlhaWc2ZWVWYQ==</Pass>
 					<Logontype>1</Logontype>
-					<PasvMode>MODE_DEFAULT</PasvMode>
+					<PasvMode>MODE_ACTIVE</PasvMode>
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
-					<Name>BD Ortho 2018</Name>
+					<Name>BD TOPO 2018</Name>
 					<SyncBrowsing>0</SyncBrowsing>
 					<DirectoryComparison>0</DirectoryComparison>
 				</Server>
@@ -268,10 +337,17 @@
 					<User>BDTOPO_V3_NL_ext</User>
 					<Pass encoding="base64">T2hwM3F1YXoyYWlkZWVsNA==</Pass>
 					<Logontype>1</Logontype>
-					<PasvMode>MODE_DEFAULT</PasvMode>
+					<PasvMode>MODE_ACTIVE</PasvMode>
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
-					<Name>BD Ortho V3</Name>
+					<Name>BD TOPO V3</Name>
+					<Comments>BD TOPO® Mars 2021 Tous Thèmes par département format shapefile projection légale
+BD TOPO® Mars 2021 Tous Thèmes par département format GeoPackage projection légale
+BD TOPO® Mars 2021 Tous Thèmes par territoire édition Décembre 2020 format SQL projection WGS84G
+BD TOPO® Mars 2021 Tous Thèmes par territoire édition Décembre 2020 format SQL projection légale
+BD TOPO® Mars 2021 Tous Thèmes par région édition Décembre 2020 format shapefile projection légale
+BD TOPO® 2018 Tous Thèmes par département format Shapefile projection légale
+BD TOPO® 2008 Tous Thèmes par département format Shapefile projection légale</Comments>
 					<SyncBrowsing>0</SyncBrowsing>
 					<DirectoryComparison>0</DirectoryComparison>
 				</Server>
@@ -283,10 +359,12 @@
 					<User>BD_Foret_V1_et_V2_ext</User>
 					<Pass encoding="base64">YWQzUGhlcXUySXhhZTdvaA==</Pass>
 					<Logontype>1</Logontype>
-					<PasvMode>MODE_DEFAULT</PasvMode>
+					<PasvMode>MODE_ACTIVE</PasvMode>
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
 					<Name>BD foret V1 V2</Name>
+					<Comments>BD FORET® V1
+BD FORET® V2</Comments>
 					<SyncBrowsing>0</SyncBrowsing>
 					<DirectoryComparison>0</DirectoryComparison>
 				</Server>
@@ -298,10 +376,11 @@
 					<User>BDPR_ext</User>
 					<Pass encoding="base64">YmUzYWFkb1Zvem9oZ2hpZQ==</Pass>
 					<Logontype>1</Logontype>
-					<PasvMode>MODE_DEFAULT</PasvMode>
+					<PasvMode>MODE_ACTIVE</PasvMode>
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
 					<Name>BDPR</Name>
+					<Comments>base de données des points repéres (PR) du réseau routier</Comments>
 					<SyncBrowsing>0</SyncBrowsing>
 					<DirectoryComparison>0</DirectoryComparison>
 				</Server>
@@ -313,10 +392,11 @@
 					<User>Contours_IRIS_ext</User>
 					<Pass encoding="base64">YW82UGh1NW9oSjRqYWVqaQ==</Pass>
 					<Logontype>1</Logontype>
-					<PasvMode>MODE_DEFAULT</PasvMode>
+					<PasvMode>MODE_ACTIVE</PasvMode>
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
 					<Name>Contour IRIS</Name>
+					<Comments>Contours…Iris® par année</Comments>
 					<SyncBrowsing>0</SyncBrowsing>
 					<DirectoryComparison>0</DirectoryComparison>
 				</Server>
@@ -328,10 +408,11 @@
 					<User>DNSB_ext</User>
 					<Pass encoding="base64">QWhDM21vZTNwZWVnb2hjbw==</Pass>
 					<Logontype>1</Logontype>
-					<PasvMode>MODE_DEFAULT</PasvMode>
+					<PasvMode>MODE_ACTIVE</PasvMode>
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
 					<Name>DN suivi bocage</Name>
+					<Comments>Dispositif National de Suivi des Bocages</Comments>
 					<SyncBrowsing>0</SyncBrowsing>
 					<DirectoryComparison>0</DirectoryComparison>
 				</Server>
@@ -343,10 +424,12 @@
 					<User>EGM_ext</User>
 					<Pass encoding="base64">b29yb292NWpldTJDYWgxbg==</Pass>
 					<Logontype>1</Logontype>
-					<PasvMode>MODE_DEFAULT</PasvMode>
+					<PasvMode>MODE_ACTIVE</PasvMode>
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
 					<Name>EuropeanGlobalMap</Name>
+					<Comments>EuroGlobalMap® (EGM) au format shapefile
+EuroGlobalMap® (EGM) au format géodatabase</Comments>
 					<SyncBrowsing>0</SyncBrowsing>
 					<DirectoryComparison>0</DirectoryComparison>
 				</Server>
@@ -358,10 +441,12 @@
 					<User>GEODESIE_ext</User>
 					<Pass encoding="base64">b2hxdWUxbGFpU29vY2hvOA==</Pass>
 					<Logontype>1</Logontype>
-					<PasvMode>MODE_DEFAULT</PasvMode>
+					<PasvMode>MODE_ACTIVE</PasvMode>
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
 					<Name>Geodesie</Name>
+					<Comments>Fiches géodésiques sur l’ensemble des départements français
+fiches géodésiques décembre 2019</Comments>
 					<SyncBrowsing>0</SyncBrowsing>
 					<DirectoryComparison>0</DirectoryComparison>
 				</Server>
@@ -373,10 +458,11 @@
 					<User>Iris_GE_ext</User>
 					<Pass encoding="base64">ZWVMb293MWdvaFMxT290OQ==</Pass>
 					<Logontype>1</Logontype>
-					<PasvMode>MODE_DEFAULT</PasvMode>
+					<PasvMode>MODE_ACTIVE</PasvMode>
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
 					<Name>IRIS GE</Name>
+					<Comments>IRIS…GE® Grande Echelle</Comments>
 					<SyncBrowsing>0</SyncBrowsing>
 					<DirectoryComparison>0</DirectoryComparison>
 				</Server>
@@ -388,25 +474,13 @@
 					<User>OCS_GE_ext</User>
 					<Pass encoding="base64">T2hjaW96aWV4NUVlVzBmZQ==</Pass>
 					<Logontype>1</Logontype>
-					<PasvMode>MODE_DEFAULT</PasvMode>
+					<PasvMode>MODE_ACTIVE</PasvMode>
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
 					<Name>OCS GE</Name>
-					<SyncBrowsing>0</SyncBrowsing>
-					<DirectoryComparison>0</DirectoryComparison>
-				</Server>
-				<Server>
-					<Host>ftp3.ign.fr</Host>
-					<Port>21</Port>
-					<Protocol>6</Protocol>
-					<Type>0</Type>
-					<User>RPG_ext</User>
-					<Pass encoding="base64">cXVvb2phaWNhaXF1NmFoRA==</Pass>
-					<Logontype>1</Logontype>
-					<PasvMode>MODE_DEFAULT</PasvMode>
-					<EncodingType>Auto</EncodingType>
-					<BypassProxy>0</BypassProxy>
-					<Name>RPG</Name>
+					<Comments>OCS GE par emprise départementale ou communale
+OCcupation des Sols à Grande Echelle
+</Comments>
 					<SyncBrowsing>0</SyncBrowsing>
 					<DirectoryComparison>0</DirectoryComparison>
 				</Server>
@@ -418,10 +492,11 @@
 					<User>ROUTE_500_ext</User>
 					<Pass encoding="base64">VXF1ZWVtaWV2YWlEYWgzaw==</Pass>
 					<Logontype>1</Logontype>
-					<PasvMode>MODE_DEFAULT</PasvMode>
+					<PasvMode>MODE_ACTIVE</PasvMode>
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
 					<Name>Route 500</Name>
+					<Comments>ROUTE 500®</Comments>
 					<SyncBrowsing>0</SyncBrowsing>
 					<DirectoryComparison>0</DirectoryComparison>
 				</Server>
